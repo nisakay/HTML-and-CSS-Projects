@@ -1,8 +1,23 @@
 p {
 	color: snow;
 	background: black;
-	font_style: bold;
+	font-style: bold;
 	text-align: center;
 	text-shadow: 2px 2px 4px #000000;
 	/*This is linked to the CSS basic file*/
    }
+
+ol {
+
+	background: burlywood;
+ 	padding: 5px;
+  	margin-left: 35px;
+}
+
+ul {
+
+	background: rgb(78, 78, 180);
+ 	padding: 5px;
+  	margin-left: 35px;
+}
+
